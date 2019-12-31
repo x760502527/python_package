@@ -1,0 +1,18 @@
+[
+  {
+    "serverIP": "114.115.141.215",
+    "port": 22,
+    "username": "root",
+    "password": "hag123456!",
+    "tomcatWebappsPath": "/var/lib/tomcat8/webapps",
+    "warName": "HAGFrame.war"
+  },
+  {
+    "serverIP": "192.168.10.241",
+    "port": 22,
+    "username": "root",
+    "password": "Hag123456!",
+    "tomcatWebappsPath": "/mnt/oxilysrun/tomcat8/apache-tomcat-8.5.43/webapps",
+    "warName": "HAGFrame.war"
+  }
+]
